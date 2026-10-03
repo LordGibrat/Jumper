@@ -1,0 +1,17 @@
+﻿{
+    "schemaVersion":  1,
+    "initializedAt":  "2026-10-03T09:31:49.3585818+05:00",
+    "framework":  "unknown",
+    "typescript":  false,
+    "packageManager":  "unknown",
+    "browser":  {
+                    "provider":  "playwright",
+                    "browser":  "chrome",
+                    "mcpPackage":  "@playwright/mcp@0.0.82"
+                },
+    "codegraph":  {
+                      "enabled":  true,
+                      "indexDirectory":  ".codegraph",
+                      "mcpCommand":  "codegraph serve --mcp"
+                  }
+}

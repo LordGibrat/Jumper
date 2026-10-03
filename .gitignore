@@ -1,0 +1,7 @@
+.codegraph/
+node_modules/
+dist/
+.playwright-mcp/
+server/*.sqlite
+server/*.sqlite-shm
+server/*.sqlite-wal

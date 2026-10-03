@@ -1,0 +1,1 @@
+import type {Progress} from './types'; export const fresh:Progress={city:0,level:0,pad:0,aura:0,coins:0,score:0,landings:0,unlockedMax:0,ownedShoes:['basic'],shoe:'basic',flipMode:'front',stats:{attempts:0,perfectLandings:0}};

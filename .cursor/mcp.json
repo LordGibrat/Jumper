@@ -1,0 +1,22 @@
+﻿{
+    "mcpServers":  {
+                       "playwright":  {
+                                          "command":  "npx",
+                                          "args":  [
+                                                       "-y",
+                                                       "@playwright/mcp@0.0.82",
+                                                       "--browser=chrome",
+                                                       "--console-level=warning"
+                                                   ]
+                                      },
+                       "codegraph":  {
+                                         "command":  "codegraph",
+                                         "args":  [
+                                                      "serve",
+                                                      "--mcp",
+                                                      "--path",
+                                                      "C:\\Users\\user\\Desktop\\projects\\Jumper"
+                                                  ]
+                                     }
+                   }
+}

@@ -1,0 +1,10 @@
+---
+description: AI Harness project workflow for Codex/Cursor frontend development
+alwaysApply: true
+---
+
+Read the repository `AGENTS.md` and follow its AI Harness managed section.
+
+For Next.js/React browser-visible changes, verify the running application in visible Chrome through Playwright. Reproduce browser bugs before editing when practical. Do not finish browser-visible work until relevant project checks and a final browser verification pass.
+
+Preserve the existing package manager. Prefer Bun only when the project already uses Bun.
