@@ -1,5 +1,7 @@
 # Jumper
 
+**A playable browser game about timing jumps, flips, and landings across city stages.**
+
 Jumper is a browser-based city-scale flight game built around one input: hold **Space** to charge a jump, release to launch, and press Space again in the air to spin. Land upright, earn score and coins, unlock new cities, and collect shoes with different movement bonuses.
 
 ## Features
@@ -12,6 +14,8 @@ Jumper is a browser-based city-scale flight game built around one input: hold **
 - Account registration and login.
 - Server-side progress persistence with SQLite and optimistic version checks.
 - Unit-tested game-engine functions for trajectories, rewards, progression, and penalties.
+
+[Run locally](#run-locally) · [Controls](#controls) · [Architecture](#architecture)
 
 ## Run locally
 
